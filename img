@@ -1,0 +1,6 @@
+<script>start("/Users/balle/Coding/_repos and projects/movie-recommender/img/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cast.png","cast.png",0,4626206,"4.4 MB",1750169799,"6/17/25, 10:16:39 AM");</script>
+<script>addRow("main.png","main.png",0,4355904,"4.2 MB",1750169799,"6/17/25, 10:16:39 AM");</script>
+<script>addRow("recommend.png","recommend.png",0,4856056,"4.6 MB",1750169799,"6/17/25, 10:16:39 AM");</script>
+<script>addRow("reviews.png","reviews.png",0,3464716,"3.3 MB",1750169799,"6/17/25, 10:16:39 AM");</script>
